@@ -1,3 +1,8 @@
 archivo creado por Rodrigo
+<<<<<<< Updated upstream
 archivo editado de nuevo por Rodrigo
 archivo editado por nico
+=======
+archivo editado de nuevo por Rodrigo'
+nueva linea para generar branch
+>>>>>>> Stashed changes
